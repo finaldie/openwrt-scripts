@@ -1,0 +1,8 @@
+# This is the dnsmasq template file, it's used as an input file of dnsmasq_conf_gen
+# Format is: $domain [off]
+# Example:
+#  .abc.com off
+#  .bde.com
+
+# abc
+.abc.com
